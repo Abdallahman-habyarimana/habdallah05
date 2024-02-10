@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack web developer
 ------------------------
 
-I am a full-stack web developer with extensive experience who is passionate about building solutions that are user-friendly. Proficiency with modern frameworks, Javascript, CSS, and Html. Continuously learning and staying updated with industry trends. Let's build something amazing together!
+I am a full-stack web developer with extensive experience who is passionate about user-friendly building solutions. Proficiency with modern frameworks, Javascript, CSS, and HTML. Continuously learning and staying updated with industry trends. Let's build something amazing together!
 
 *   🌍  I'm based in Toronto, ON
 *   ✉️  You can contact me at [abdallahman.habyarimana@hotmail.com](mailto:abdallahman.habyarimana@hotmail.com)
